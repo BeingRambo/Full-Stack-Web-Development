@@ -1,0 +1,3 @@
+//installing nodemon  type         npm install nodemon -g
+// checking nodemon                nodemon -v
+//accessing files                  nodemon index.js
